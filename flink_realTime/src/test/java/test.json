@@ -1,0 +1,52 @@
+{
+    "actions": [
+        {
+            "action_id": "favor_add",
+            "item": "33",
+            "item_type": "sku_id",
+            "ts": 1651303989298
+        },
+        {
+            "action_id": "cart_add",
+            "item": "33",
+            "item_type": "sku_id",
+            "ts": 1651303993596
+        }
+    ],
+    "common": {
+        "ar": "440000",
+        "ba": "iPhone",
+        "ch": "Appstore",
+        "is_new": "0",
+        "md": "iPhone X",
+        "mid": "mid_3442864",
+        "os": "iOS 12.4.1",
+        "uid": "928",
+        "vc": "v2.1.134"
+    },
+    "displays": [
+        {
+            "display_type": "promotion",
+            "item": "19",
+            "item_type": "sku_id",
+            "order": 1,
+            "pos_id": 3
+        },
+        {
+            "display_type": "query",
+            "item": "27",
+            "item_type": "sku_id",
+            "order": 2,
+            "pos_id": 4
+        }
+    ],
+    "page": {
+        "during_time": 17195,
+        "item": "33",
+        "item_type": "sku_id",
+        "last_page_id": "good_list",
+        "page_id": "good_detail",
+        "source_type": "promotion"
+    },
+    "ts": 1651303985000
+}
